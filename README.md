@@ -27,7 +27,7 @@ The entire ROS + simulation environment runs inside a Docker container; only thi
 │      TensorBoard logs/  → http://localhost:6006                  │
 └─────────────────────────────────────────────────────────────────┘
         ▲  X11 socket          ▼  volume mount
-   Host display (Gazebo GUI)   /home/<user>/rospug-rl-training/
+   Host display (Gazebo GUI)   /home/<user>/ROSpug-DR-policy/
 ```
 
 ---
@@ -98,8 +98,8 @@ docker run --rm --gpus all nvidia/cuda:11.8.0-base-ubuntu22.04 nvidia-smi
 
 ```bash
 # 1. Clone the repo (Git LFS required for checkpoint files)
-git clone https://github.com/<your-username>/rospug-rl-training.git
-cd rospug-rl-training
+git clone https://github.com/Pragyan-Choudhury/ROSpug-DR-policy.git
+cd ROSpug-DR-policy
 
 # 2. Pull LFS objects (checkpoint .zip files)
 git lfs pull
@@ -175,7 +175,7 @@ tensorboard --logdir logs/ppo_rospug/ --port 6006 --bind_all
 ## File Layout
 
 ```
-rospug-rl-training/
+ROSpug-DR-policy/
 ├── Dockerfile                # ROS Melodic + Python 3.8 + SB3 + CUDA PyTorch
 ├── docker-compose.yml        # X11 forwarding, GPU passthrough, volume mount
 ├── entrypoint.sh             # Sources ROS + catkin env; fixes PYTHONPATH
