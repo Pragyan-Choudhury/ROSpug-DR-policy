@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.eggs/
+
+# Editor
+.DS_Store
+.vscode/
+*.swp
+*~
+
+# Temporary build artefacts
+/tmp/
+*.log
+
+# Docker
+.dockerignore
+
+# Jupyter
+.ipynb_checkpoints/

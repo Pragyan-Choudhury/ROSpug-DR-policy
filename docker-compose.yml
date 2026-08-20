@@ -1,0 +1,43 @@
+services:
+  rospug:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: rospug-melodic:latest
+    container_name: rospug_dev
+    environment:
+      # X11 display forwarding -- works via XWayland on Ubuntu 22.04
+      - DISPLAY=${DISPLAY:-:0}
+      - QT_X11_NO_MITSHM=1
+      - LIBGL_ALWAYS_INDIRECT=0
+      # No Xauthority cookie -- rely on xhost +local:docker (called by shell.sh / run_gazebo.sh)
+      - XAUTHORITY=/dev/null
+      # ROS networking (standalone container -- no cross-host comms needed yet)
+      - ROS_MASTER_URI=http://localhost:11311
+      - ROS_HOSTNAME=localhost
+      # NVIDIA Container Toolkit: expose all GPUs inside the container
+      - NVIDIA_VISIBLE_DEVICES=all
+      - NVIDIA_DRIVER_CAPABILITIES=compute,utility
+    volumes:
+      # X11 socket -- required for Gazebo / RViz GUI
+      - /tmp/.X11-unix:/tmp/.X11-unix:rw
+      # rospug_research/ available inside container at /root/rospug_research/
+      # rw required so training scripts can write logs/checkpoints here
+      - ./:/root/rospug_research:rw
+      # Mount our custom RL packages once they exist (uncomment when ready):
+      # - ./rl:/root/catkin_ws/src/rl_rospug:rw
+    # host networking: all container ports (incl. TensorBoard :6006) are
+    # directly accessible on the host without explicit port mapping.
+    network_mode: host
+    ipc: host
+    stdin_open: true
+    tty: true
+    # GPU passthrough via NVIDIA Container Toolkit (requires nvidia-ctk on host)
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
+    command: bash

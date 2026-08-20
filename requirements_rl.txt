@@ -1,0 +1,10 @@
+# RL training stack for ROSPug — install with:
+#   python3.8 -m pip install -r requirements_rl.txt
+#
+# These are installed in the Docker image by the Dockerfile (step 9).
+# This file is kept for local/reference installs outside Docker.
+gymnasium>=0.27
+stable-baselines3>=2.0
+tensorboard>=2.12
+# protobuf 4.x removed MessageToJson(including_default_value_fields=...) — TensorBoard 2.x requires <4.0
+protobuf>=3.20,<4.0
