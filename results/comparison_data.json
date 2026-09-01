@@ -1,0 +1,1832 @@
+{
+  "A__light_body": [
+    {
+      "displacement": 3.9583,
+      "fell": false,
+      "reward": 843.7445,
+      "steps": 500
+    },
+    {
+      "displacement": 3.6869,
+      "fell": false,
+      "reward": 803.0414,
+      "steps": 500
+    },
+    {
+      "displacement": 1.7245,
+      "fell": false,
+      "reward": 508.6702,
+      "steps": 500
+    },
+    {
+      "displacement": 3.2448,
+      "fell": false,
+      "reward": 736.7143,
+      "steps": 500
+    },
+    {
+      "displacement": 3.7461,
+      "fell": false,
+      "reward": 811.9156,
+      "steps": 500
+    },
+    {
+      "displacement": 2.3677,
+      "fell": false,
+      "reward": 605.1478,
+      "steps": 500
+    },
+    {
+      "displacement": 4.0634,
+      "fell": false,
+      "reward": 859.5078,
+      "steps": 500
+    },
+    {
+      "displacement": 3.0038,
+      "fell": false,
+      "reward": 700.568,
+      "steps": 500
+    },
+    {
+      "displacement": 1.5676,
+      "fell": false,
+      "reward": 485.1326,
+      "steps": 500
+    },
+    {
+      "displacement": 4.2272,
+      "fell": false,
+      "reward": 884.0768,
+      "steps": 500
+    },
+    {
+      "displacement": -0.5947,
+      "fell": false,
+      "reward": 160.8018,
+      "steps": 500
+    },
+    {
+      "displacement": 4.0815,
+      "fell": false,
+      "reward": 862.2224,
+      "steps": 500
+    },
+    {
+      "displacement": 3.3104,
+      "fell": false,
+      "reward": 746.5587,
+      "steps": 500
+    },
+    {
+      "displacement": 2.6184,
+      "fell": false,
+      "reward": 642.7647,
+      "steps": 500
+    },
+    {
+      "displacement": 3.3802,
+      "fell": false,
+      "reward": 757.0246,
+      "steps": 500
+    },
+    {
+      "displacement": 2.2242,
+      "fell": false,
+      "reward": 583.6364,
+      "steps": 500
+    },
+    {
+      "displacement": 2.6368,
+      "fell": false,
+      "reward": 645.5271,
+      "steps": 500
+    },
+    {
+      "displacement": 2.8944,
+      "fell": false,
+      "reward": 684.1582,
+      "steps": 500
+    },
+    {
+      "displacement": 3.5264,
+      "fell": false,
+      "reward": 778.955,
+      "steps": 500
+    },
+    {
+      "displacement": 3.8658,
+      "fell": false,
+      "reward": 829.8705,
+      "steps": 500
+    }
+  ],
+  "A__heavy_body": [
+    {
+      "displacement": 4.1239,
+      "fell": false,
+      "reward": 868.5863,
+      "steps": 500
+    },
+    {
+      "displacement": 3.8249,
+      "fell": false,
+      "reward": 823.7376,
+      "steps": 500
+    },
+    {
+      "displacement": 4.1363,
+      "fell": false,
+      "reward": 870.4488,
+      "steps": 500
+    },
+    {
+      "displacement": 3.4217,
+      "fell": false,
+      "reward": 763.2489,
+      "steps": 500
+    },
+    {
+      "displacement": 2.9523,
+      "fell": false,
+      "reward": 692.8444,
+      "steps": 500
+    },
+    {
+      "displacement": -0.5388,
+      "fell": false,
+      "reward": 169.1873,
+      "steps": 500
+    },
+    {
+      "displacement": 2.2326,
+      "fell": false,
+      "reward": 584.894,
+      "steps": 500
+    },
+    {
+      "displacement": 3.8862,
+      "fell": false,
+      "reward": 832.9349,
+      "steps": 500
+    },
+    {
+      "displacement": 4.109,
+      "fell": false,
+      "reward": 866.3438,
+      "steps": 500
+    },
+    {
+      "displacement": 2.017,
+      "fell": false,
+      "reward": 552.5494,
+      "steps": 500
+    },
+    {
+      "displacement": 3.4368,
+      "fell": false,
+      "reward": 765.523,
+      "steps": 500
+    },
+    {
+      "displacement": 2.6746,
+      "fell": false,
+      "reward": 651.1881,
+      "steps": 500
+    },
+    {
+      "displacement": 4.3174,
+      "fell": false,
+      "reward": 897.6026,
+      "steps": 500
+    },
+    {
+      "displacement": 3.0656,
+      "fell": false,
+      "reward": 709.8367,
+      "steps": 500
+    },
+    {
+      "displacement": 2.7352,
+      "fell": false,
+      "reward": 660.278,
+      "steps": 500
+    },
+    {
+      "displacement": 4.2082,
+      "fell": false,
+      "reward": 881.2356,
+      "steps": 500
+    },
+    {
+      "displacement": 2.7322,
+      "fell": false,
+      "reward": 659.8289,
+      "steps": 500
+    },
+    {
+      "displacement": 3.5822,
+      "fell": false,
+      "reward": 787.335,
+      "steps": 500
+    },
+    {
+      "displacement": 1.2511,
+      "fell": false,
+      "reward": 437.6724,
+      "steps": 500
+    },
+    {
+      "displacement": 3.9755,
+      "fell": false,
+      "reward": 846.3285,
+      "steps": 500
+    }
+  ],
+  "A__high_latency": [
+    {
+      "displacement": -0.1766,
+      "fell": false,
+      "reward": 223.5149,
+      "steps": 500
+    },
+    {
+      "displacement": 0.6724,
+      "fell": false,
+      "reward": 350.865,
+      "steps": 500
+    },
+    {
+      "displacement": 1.1707,
+      "fell": false,
+      "reward": 425.5975,
+      "steps": 500
+    },
+    {
+      "displacement": -0.5059,
+      "fell": false,
+      "reward": 174.1134,
+      "steps": 500
+    },
+    {
+      "displacement": 1.7153,
+      "fell": false,
+      "reward": 507.292,
+      "steps": 500
+    },
+    {
+      "displacement": 1.529,
+      "fell": false,
+      "reward": 479.3498,
+      "steps": 500
+    },
+    {
+      "displacement": 1.6976,
+      "fell": false,
+      "reward": 504.6426,
+      "steps": 500
+    },
+    {
+      "displacement": 2.7035,
+      "fell": false,
+      "reward": 655.5301,
+      "steps": 500
+    },
+    {
+      "displacement": 3.4118,
+      "fell": false,
+      "reward": 761.771,
+      "steps": 500
+    },
+    {
+      "displacement": 2.8004,
+      "fell": false,
+      "reward": 670.059,
+      "steps": 500
+    },
+    {
+      "displacement": 2.2042,
+      "fell": false,
+      "reward": 580.6277,
+      "steps": 500
+    },
+    {
+      "displacement": 2.8748,
+      "fell": false,
+      "reward": 681.2213,
+      "steps": 500
+    },
+    {
+      "displacement": 2.7307,
+      "fell": false,
+      "reward": 659.6042,
+      "steps": 500
+    },
+    {
+      "displacement": 2.4284,
+      "fell": false,
+      "reward": 613.9772,
+      "steps": 500
+    },
+    {
+      "displacement": 0.5304,
+      "fell": false,
+      "reward": 329.5664,
+      "steps": 500
+    },
+    {
+      "displacement": 1.1931,
+      "fell": false,
+      "reward": 428.9705,
+      "steps": 500
+    },
+    {
+      "displacement": -0.5474,
+      "fell": false,
+      "reward": 167.8923,
+      "steps": 500
+    },
+    {
+      "displacement": 3.0655,
+      "fell": false,
+      "reward": 709.8236,
+      "steps": 500
+    },
+    {
+      "displacement": 3.1025,
+      "fell": false,
+      "reward": 715.3755,
+      "steps": 500
+    },
+    {
+      "displacement": -1.5015,
+      "fell": false,
+      "reward": 24.775,
+      "steps": 500
+    }
+  ],
+  "A__slippery": [
+    {
+      "displacement": 0.0717,
+      "fell": false,
+      "reward": 260.7581,
+      "steps": 500
+    },
+    {
+      "displacement": 3.6597,
+      "fell": false,
+      "reward": 798.9558,
+      "steps": 500
+    },
+    {
+      "displacement": 3.9781,
+      "fell": false,
+      "reward": 846.7126,
+      "steps": 500
+    },
+    {
+      "displacement": 4.5382,
+      "fell": false,
+      "reward": 930.7303,
+      "steps": 500
+    },
+    {
+      "displacement": 2.3197,
+      "fell": false,
+      "reward": 597.9591,
+      "steps": 500
+    },
+    {
+      "displacement": 3.7001,
+      "fell": false,
+      "reward": 805.0188,
+      "steps": 500
+    },
+    {
+      "displacement": 3.6663,
+      "fell": false,
+      "reward": 799.9484,
+      "steps": 500
+    },
+    {
+      "displacement": -0.0805,
+      "fell": false,
+      "reward": 237.926,
+      "steps": 500
+    },
+    {
+      "displacement": 4.3674,
+      "fell": false,
+      "reward": 905.1034,
+      "steps": 500
+    },
+    {
+      "displacement": 2.9778,
+      "fell": false,
+      "reward": 696.674,
+      "steps": 500
+    },
+    {
+      "displacement": 0.0857,
+      "fell": true,
+      "reward": 3.3612,
+      "steps": 1
+    },
+    {
+      "displacement": 0.0011,
+      "fell": true,
+      "reward": -9.3394,
+      "steps": 1
+    },
+    {
+      "displacement": 0.0067,
+      "fell": true,
+      "reward": -8.5013,
+      "steps": 1
+    },
+    {
+      "displacement": 0.0004,
+      "fell": true,
+      "reward": -9.4419,
+      "steps": 1
+    },
+    {
+      "displacement": -0.0001,
+      "fell": true,
+      "reward": -9.5191,
+      "steps": 1
+    },
+    {
+      "displacement": 0.0023,
+      "fell": true,
+      "reward": -9.1503,
+      "steps": 1
+    },
+    {
+      "displacement": 0.0045,
+      "fell": true,
+      "reward": -8.8299,
+      "steps": 1
+    },
+    {
+      "displacement": 0.0035,
+      "fell": true,
+      "reward": -8.9752,
+      "steps": 1
+    },
+    {
+      "displacement": -0.0004,
+      "fell": true,
+      "reward": -9.5614,
+      "steps": 1
+    },
+    {
+      "displacement": 0.0007,
+      "fell": true,
+      "reward": -9.3886,
+      "steps": 1
+    }
+  ],
+  "A__worst_case": [
+    {
+      "displacement": 3.0489,
+      "fell": false,
+      "reward": 707.3353,
+      "steps": 500
+    },
+    {
+      "displacement": 1.5348,
+      "fell": false,
+      "reward": 480.2207,
+      "steps": 500
+    },
+    {
+      "displacement": -0.6057,
+      "fell": false,
+      "reward": 159.1454,
+      "steps": 500
+    },
+    {
+      "displacement": 3.6902,
+      "fell": false,
+      "reward": 803.5368,
+      "steps": 500
+    },
+    {
+      "displacement": -0.4146,
+      "fell": false,
+      "reward": 187.8131,
+      "steps": 500
+    },
+    {
+      "displacement": 0.0256,
+      "fell": false,
+      "reward": 253.8452,
+      "steps": 500
+    },
+    {
+      "displacement": -1.3494,
+      "fell": false,
+      "reward": 47.5925,
+      "steps": 500
+    },
+    {
+      "displacement": -0.5554,
+      "fell": false,
+      "reward": 166.6875,
+      "steps": 500
+    },
+    {
+      "displacement": -1.8057,
+      "fell": false,
+      "reward": -20.8508,
+      "steps": 500
+    },
+    {
+      "displacement": 2.0569,
+      "fell": false,
+      "reward": 558.5313,
+      "steps": 500
+    },
+    {
+      "displacement": 1.6337,
+      "fell": false,
+      "reward": 495.0533,
+      "steps": 500
+    },
+    {
+      "displacement": -1.1654,
+      "fell": false,
+      "reward": 75.1888,
+      "steps": 500
+    },
+    {
+      "displacement": 2.8002,
+      "fell": false,
+      "reward": 670.0303,
+      "steps": 500
+    },
+    {
+      "displacement": 1.23,
+      "fell": false,
+      "reward": 434.5016,
+      "steps": 500
+    },
+    {
+      "displacement": 1.5694,
+      "fell": false,
+      "reward": 485.4101,
+      "steps": 500
+    },
+    {
+      "displacement": 1.8209,
+      "fell": false,
+      "reward": 523.1365,
+      "steps": 500
+    },
+    {
+      "displacement": 2.4425,
+      "fell": false,
+      "reward": 616.3713,
+      "steps": 500
+    },
+    {
+      "displacement": 3.4031,
+      "fell": false,
+      "reward": 760.472,
+      "steps": 500
+    },
+    {
+      "displacement": 2.9467,
+      "fell": false,
+      "reward": 692.0114,
+      "steps": 500
+    },
+    {
+      "displacement": -0.6464,
+      "fell": false,
+      "reward": 153.0408,
+      "steps": 500
+    }
+  ],
+  "B__light_body": [
+    {
+      "displacement": 3.8573,
+      "fell": false,
+      "reward": 828.5956,
+      "steps": 500
+    },
+    {
+      "displacement": 0.9692,
+      "fell": false,
+      "reward": 395.379,
+      "steps": 500
+    },
+    {
+      "displacement": 2.935,
+      "fell": false,
+      "reward": 690.2488,
+      "steps": 500
+    },
+    {
+      "displacement": 3.2672,
+      "fell": false,
+      "reward": 740.0807,
+      "steps": 500
+    },
+    {
+      "displacement": 2.7208,
+      "fell": false,
+      "reward": 658.123,
+      "steps": 500
+    },
+    {
+      "displacement": 3.6038,
+      "fell": false,
+      "reward": 790.5689,
+      "steps": 500
+    },
+    {
+      "displacement": 4.2544,
+      "fell": false,
+      "reward": 888.1537,
+      "steps": 500
+    },
+    {
+      "displacement": 1.9396,
+      "fell": false,
+      "reward": 540.939,
+      "steps": 500
+    },
+    {
+      "displacement": 0.5584,
+      "fell": false,
+      "reward": 333.7675,
+      "steps": 500
+    },
+    {
+      "displacement": 3.6016,
+      "fell": false,
+      "reward": 790.2334,
+      "steps": 500
+    },
+    {
+      "displacement": 3.4494,
+      "fell": false,
+      "reward": 767.4108,
+      "steps": 500
+    },
+    {
+      "displacement": 4.4538,
+      "fell": false,
+      "reward": 918.0754,
+      "steps": 500
+    },
+    {
+      "displacement": 2.8718,
+      "fell": false,
+      "reward": 680.7664,
+      "steps": 500
+    },
+    {
+      "displacement": 0.6448,
+      "fell": false,
+      "reward": 346.7234,
+      "steps": 500
+    },
+    {
+      "displacement": 2.4921,
+      "fell": false,
+      "reward": 623.821,
+      "steps": 500
+    },
+    {
+      "displacement": 3.3807,
+      "fell": false,
+      "reward": 757.1057,
+      "steps": 500
+    },
+    {
+      "displacement": 2.0672,
+      "fell": false,
+      "reward": 560.0782,
+      "steps": 500
+    },
+    {
+      "displacement": 3.8559,
+      "fell": false,
+      "reward": 828.3854,
+      "steps": 500
+    },
+    {
+      "displacement": 2.7782,
+      "fell": false,
+      "reward": 666.7225,
+      "steps": 500
+    },
+    {
+      "displacement": 3.5467,
+      "fell": false,
+      "reward": 782.004,
+      "steps": 500
+    }
+  ],
+  "B__heavy_body": [
+    {
+      "displacement": 0.6204,
+      "fell": false,
+      "reward": 343.0529,
+      "steps": 500
+    },
+    {
+      "displacement": 0.279,
+      "fell": false,
+      "reward": 291.8555,
+      "steps": 500
+    },
+    {
+      "displacement": 0.8713,
+      "fell": false,
+      "reward": 380.697,
+      "steps": 500
+    },
+    {
+      "displacement": 3.2726,
+      "fell": false,
+      "reward": 740.8893,
+      "steps": 500
+    },
+    {
+      "displacement": 3.8425,
+      "fell": false,
+      "reward": 826.373,
+      "steps": 500
+    },
+    {
+      "displacement": 0.6416,
+      "fell": false,
+      "reward": 346.235,
+      "steps": 500
+    },
+    {
+      "displacement": 3.5127,
+      "fell": false,
+      "reward": 776.9064,
+      "steps": 500
+    },
+    {
+      "displacement": 3.6415,
+      "fell": false,
+      "reward": 796.2324,
+      "steps": 500
+    },
+    {
+      "displacement": 3.439,
+      "fell": false,
+      "reward": 765.8517,
+      "steps": 500
+    },
+    {
+      "displacement": -0.5521,
+      "fell": false,
+      "reward": 167.182,
+      "steps": 500
+    },
+    {
+      "displacement": 3.641,
+      "fell": false,
+      "reward": 796.1528,
+      "steps": 500
+    },
+    {
+      "displacement": 3.8809,
+      "fell": false,
+      "reward": 832.1423,
+      "steps": 500
+    },
+    {
+      "displacement": 2.9331,
+      "fell": false,
+      "reward": 689.9632,
+      "steps": 500
+    },
+    {
+      "displacement": -1.0381,
+      "fell": false,
+      "reward": 94.2853,
+      "steps": 500
+    },
+    {
+      "displacement": 1.2584,
+      "fell": false,
+      "reward": 438.7571,
+      "steps": 500
+    },
+    {
+      "displacement": 1.553,
+      "fell": false,
+      "reward": 482.9517,
+      "steps": 500
+    },
+    {
+      "displacement": 1.2806,
+      "fell": false,
+      "reward": 442.0949,
+      "steps": 500
+    },
+    {
+      "displacement": 2.2154,
+      "fell": false,
+      "reward": 582.3106,
+      "steps": 500
+    },
+    {
+      "displacement": 3.884,
+      "fell": false,
+      "reward": 832.5942,
+      "steps": 500
+    },
+    {
+      "displacement": 3.3273,
+      "fell": false,
+      "reward": 749.0913,
+      "steps": 500
+    }
+  ],
+  "B__high_latency": [
+    {
+      "displacement": 0.5757,
+      "fell": false,
+      "reward": 336.3527,
+      "steps": 500
+    },
+    {
+      "displacement": 1.6761,
+      "fell": false,
+      "reward": 501.4092,
+      "steps": 500
+    },
+    {
+      "displacement": 1.5155,
+      "fell": false,
+      "reward": 477.3215,
+      "steps": 500
+    },
+    {
+      "displacement": 2.7318,
+      "fell": false,
+      "reward": 659.7741,
+      "steps": 500
+    },
+    {
+      "displacement": 2.7937,
+      "fell": false,
+      "reward": 669.0563,
+      "steps": 500
+    },
+    {
+      "displacement": 2.2274,
+      "fell": false,
+      "reward": 584.1125,
+      "steps": 500
+    },
+    {
+      "displacement": 1.9745,
+      "fell": false,
+      "reward": 546.1752,
+      "steps": 500
+    },
+    {
+      "displacement": 0.4773,
+      "fell": false,
+      "reward": 321.5998,
+      "steps": 500
+    },
+    {
+      "displacement": 2.0322,
+      "fell": false,
+      "reward": 554.8265,
+      "steps": 500
+    },
+    {
+      "displacement": 0.8076,
+      "fell": false,
+      "reward": 371.14,
+      "steps": 500
+    },
+    {
+      "displacement": -0.3734,
+      "fell": false,
+      "reward": 193.9941,
+      "steps": 500
+    },
+    {
+      "displacement": 1.4496,
+      "fell": false,
+      "reward": 467.4355,
+      "steps": 500
+    },
+    {
+      "displacement": 1.4691,
+      "fell": false,
+      "reward": 470.3633,
+      "steps": 500
+    },
+    {
+      "displacement": -0.7278,
+      "fell": false,
+      "reward": 140.8348,
+      "steps": 500
+    },
+    {
+      "displacement": 0.4698,
+      "fell": false,
+      "reward": 320.4632,
+      "steps": 500
+    },
+    {
+      "displacement": 1.5601,
+      "fell": false,
+      "reward": 484.0196,
+      "steps": 500
+    },
+    {
+      "displacement": 2.5008,
+      "fell": false,
+      "reward": 625.1224,
+      "steps": 500
+    },
+    {
+      "displacement": -0.3831,
+      "fell": false,
+      "reward": 192.5417,
+      "steps": 500
+    },
+    {
+      "displacement": 2.0412,
+      "fell": false,
+      "reward": 556.1841,
+      "steps": 500
+    },
+    {
+      "displacement": 2.797,
+      "fell": false,
+      "reward": 669.544,
+      "steps": 500
+    }
+  ],
+  "B__slippery": [
+    {
+      "displacement": 2.9371,
+      "fell": false,
+      "reward": 690.5608,
+      "steps": 500
+    },
+    {
+      "displacement": 3.8437,
+      "fell": false,
+      "reward": 826.5554,
+      "steps": 500
+    },
+    {
+      "displacement": 3.5708,
+      "fell": false,
+      "reward": 785.6191,
+      "steps": 500
+    },
+    {
+      "displacement": 0.7544,
+      "fell": false,
+      "reward": 363.1542,
+      "steps": 500
+    },
+    {
+      "displacement": 3.8982,
+      "fell": false,
+      "reward": 834.7348,
+      "steps": 500
+    },
+    {
+      "displacement": 3.5189,
+      "fell": false,
+      "reward": 777.8277,
+      "steps": 500
+    },
+    {
+      "displacement": 4.2122,
+      "fell": false,
+      "reward": 881.8279,
+      "steps": 500
+    },
+    {
+      "displacement": -1.0127,
+      "fell": false,
+      "reward": 98.0976,
+      "steps": 500
+    },
+    {
+      "displacement": 3.2273,
+      "fell": false,
+      "reward": 734.0958,
+      "steps": 500
+    },
+    {
+      "displacement": 2.3863,
+      "fell": false,
+      "reward": 607.9447,
+      "steps": 500
+    },
+    {
+      "displacement": 3.6145,
+      "fell": false,
+      "reward": 792.176,
+      "steps": 500
+    },
+    {
+      "displacement": 4.0443,
+      "fell": false,
+      "reward": 856.6443,
+      "steps": 500
+    },
+    {
+      "displacement": 3.8901,
+      "fell": false,
+      "reward": 833.5149,
+      "steps": 500
+    },
+    {
+      "displacement": 2.561,
+      "fell": false,
+      "reward": 634.149,
+      "steps": 500
+    },
+    {
+      "displacement": 4.4062,
+      "fell": false,
+      "reward": 910.9251,
+      "steps": 500
+    },
+    {
+      "displacement": 2.9466,
+      "fell": false,
+      "reward": 691.9929,
+      "steps": 500
+    },
+    {
+      "displacement": 3.4956,
+      "fell": false,
+      "reward": 774.3464,
+      "steps": 500
+    },
+    {
+      "displacement": 3.4606,
+      "fell": false,
+      "reward": 769.084,
+      "steps": 500
+    },
+    {
+      "displacement": 1.6072,
+      "fell": false,
+      "reward": 491.0761,
+      "steps": 500
+    },
+    {
+      "displacement": 3.68,
+      "fell": false,
+      "reward": 802.0027,
+      "steps": 500
+    }
+  ],
+  "B__worst_case": [
+    {
+      "displacement": 0.5888,
+      "fell": false,
+      "reward": 338.3232,
+      "steps": 500
+    },
+    {
+      "displacement": 1.8196,
+      "fell": false,
+      "reward": 522.9461,
+      "steps": 500
+    },
+    {
+      "displacement": 0.3128,
+      "fell": false,
+      "reward": 296.9235,
+      "steps": 500
+    },
+    {
+      "displacement": 2.2859,
+      "fell": false,
+      "reward": 592.8826,
+      "steps": 500
+    },
+    {
+      "displacement": 2.2592,
+      "fell": false,
+      "reward": 588.8815,
+      "steps": 500
+    },
+    {
+      "displacement": 1.4009,
+      "fell": false,
+      "reward": 460.137,
+      "steps": 500
+    },
+    {
+      "displacement": -0.0226,
+      "fell": false,
+      "reward": 246.6072,
+      "steps": 500
+    },
+    {
+      "displacement": 3.3719,
+      "fell": false,
+      "reward": 755.7849,
+      "steps": 500
+    },
+    {
+      "displacement": 3.6383,
+      "fell": false,
+      "reward": 795.7395,
+      "steps": 500
+    },
+    {
+      "displacement": 1.3323,
+      "fell": false,
+      "reward": 449.8465,
+      "steps": 500
+    },
+    {
+      "displacement": -1.47,
+      "fell": false,
+      "reward": 29.5012,
+      "steps": 500
+    },
+    {
+      "displacement": 0.1897,
+      "fell": false,
+      "reward": 278.4585,
+      "steps": 500
+    },
+    {
+      "displacement": 1.9152,
+      "fell": false,
+      "reward": 537.277,
+      "steps": 500
+    },
+    {
+      "displacement": -0.517,
+      "fell": false,
+      "reward": 172.4503,
+      "steps": 500
+    },
+    {
+      "displacement": -1.2881,
+      "fell": false,
+      "reward": 56.7912,
+      "steps": 500
+    },
+    {
+      "displacement": 0.135,
+      "fell": false,
+      "reward": 270.2451,
+      "steps": 500
+    },
+    {
+      "displacement": 2.4107,
+      "fell": false,
+      "reward": 611.612,
+      "steps": 500
+    },
+    {
+      "displacement": -1.194,
+      "fell": false,
+      "reward": 70.9051,
+      "steps": 500
+    },
+    {
+      "displacement": 0.7143,
+      "fell": false,
+      "reward": 357.1497,
+      "steps": 500
+    },
+    {
+      "displacement": 1.243,
+      "fell": false,
+      "reward": 436.4477,
+      "steps": 500
+    }
+  ],
+  "C__light_body": [
+    {
+      "displacement": 2.8712,
+      "fell": false,
+      "reward": 680.6822,
+      "steps": 500
+    },
+    {
+      "displacement": 1.481,
+      "fell": false,
+      "reward": 472.1541,
+      "steps": 500
+    },
+    {
+      "displacement": 4.6839,
+      "fell": false,
+      "reward": 952.5847,
+      "steps": 500
+    },
+    {
+      "displacement": 4.5765,
+      "fell": false,
+      "reward": 936.4722,
+      "steps": 500
+    },
+    {
+      "displacement": 3.7209,
+      "fell": false,
+      "reward": 808.1294,
+      "steps": 500
+    },
+    {
+      "displacement": 1.9741,
+      "fell": false,
+      "reward": 546.1103,
+      "steps": 500
+    },
+    {
+      "displacement": 2.5243,
+      "fell": false,
+      "reward": 628.6421,
+      "steps": 500
+    },
+    {
+      "displacement": 1.9788,
+      "fell": false,
+      "reward": 546.8198,
+      "steps": 500
+    },
+    {
+      "displacement": 3.9261,
+      "fell": false,
+      "reward": 838.9201,
+      "steps": 500
+    },
+    {
+      "displacement": 4.392,
+      "fell": false,
+      "reward": 908.7928,
+      "steps": 500
+    },
+    {
+      "displacement": 2.7464,
+      "fell": false,
+      "reward": 661.9607,
+      "steps": 500
+    },
+    {
+      "displacement": 4.7083,
+      "fell": false,
+      "reward": 956.2501,
+      "steps": 500
+    },
+    {
+      "displacement": 4.484,
+      "fell": false,
+      "reward": 922.5978,
+      "steps": 500
+    },
+    {
+      "displacement": 3.9194,
+      "fell": false,
+      "reward": 837.9162,
+      "steps": 500
+    },
+    {
+      "displacement": 4.7486,
+      "fell": false,
+      "reward": 962.2962,
+      "steps": 500
+    },
+    {
+      "displacement": 3.5751,
+      "fell": false,
+      "reward": 786.2686,
+      "steps": 500
+    },
+    {
+      "displacement": -0.4818,
+      "fell": false,
+      "reward": 177.7345,
+      "steps": 500
+    },
+    {
+      "displacement": -0.2635,
+      "fell": false,
+      "reward": 210.4775,
+      "steps": 500
+    },
+    {
+      "displacement": -0.4957,
+      "fell": false,
+      "reward": 175.6419,
+      "steps": 500
+    },
+    {
+      "displacement": -0.435,
+      "fell": false,
+      "reward": 184.7556,
+      "steps": 500
+    }
+  ],
+  "C__heavy_body": [
+    {
+      "displacement": 3.5759,
+      "fell": false,
+      "reward": 786.3874,
+      "steps": 500
+    },
+    {
+      "displacement": 3.3641,
+      "fell": false,
+      "reward": 754.6122,
+      "steps": 500
+    },
+    {
+      "displacement": 3.6333,
+      "fell": false,
+      "reward": 794.9965,
+      "steps": 500
+    },
+    {
+      "displacement": 4.5178,
+      "fell": false,
+      "reward": 927.663,
+      "steps": 500
+    },
+    {
+      "displacement": 4.6288,
+      "fell": false,
+      "reward": 944.3161,
+      "steps": 500
+    },
+    {
+      "displacement": 1.8903,
+      "fell": false,
+      "reward": 533.5452,
+      "steps": 500
+    },
+    {
+      "displacement": 4.1365,
+      "fell": false,
+      "reward": 870.4745,
+      "steps": 500
+    },
+    {
+      "displacement": 4.2505,
+      "fell": false,
+      "reward": 887.5823,
+      "steps": 500
+    },
+    {
+      "displacement": 3.0896,
+      "fell": false,
+      "reward": 713.4441,
+      "steps": 500
+    },
+    {
+      "displacement": 3.6591,
+      "fell": false,
+      "reward": 798.8657,
+      "steps": 500
+    },
+    {
+      "displacement": 0.8614,
+      "fell": false,
+      "reward": 379.2154,
+      "steps": 500
+    },
+    {
+      "displacement": 3.379,
+      "fell": false,
+      "reward": 756.8564,
+      "steps": 500
+    },
+    {
+      "displacement": 4.708,
+      "fell": false,
+      "reward": 956.2023,
+      "steps": 500
+    },
+    {
+      "displacement": 3.2359,
+      "fell": false,
+      "reward": 735.3909,
+      "steps": 500
+    },
+    {
+      "displacement": 3.6947,
+      "fell": false,
+      "reward": 804.2074,
+      "steps": 500
+    },
+    {
+      "displacement": 2.9542,
+      "fell": false,
+      "reward": 693.1369,
+      "steps": 500
+    },
+    {
+      "displacement": 4.6991,
+      "fell": false,
+      "reward": 954.8639,
+      "steps": 500
+    },
+    {
+      "displacement": 2.5927,
+      "fell": false,
+      "reward": 638.8981,
+      "steps": 500
+    },
+    {
+      "displacement": 1.7257,
+      "fell": false,
+      "reward": 508.8522,
+      "steps": 500
+    },
+    {
+      "displacement": 2.1916,
+      "fell": false,
+      "reward": 578.7421,
+      "steps": 500
+    }
+  ],
+  "C__high_latency": [
+    {
+      "displacement": 3.0349,
+      "fell": false,
+      "reward": 705.2414,
+      "steps": 500
+    },
+    {
+      "displacement": 3.9839,
+      "fell": false,
+      "reward": 847.5847,
+      "steps": 500
+    },
+    {
+      "displacement": 2.5128,
+      "fell": false,
+      "reward": 626.925,
+      "steps": 500
+    },
+    {
+      "displacement": 3.345,
+      "fell": false,
+      "reward": 751.755,
+      "steps": 500
+    },
+    {
+      "displacement": 4.1438,
+      "fell": false,
+      "reward": 871.5689,
+      "steps": 500
+    },
+    {
+      "displacement": -1.6186,
+      "fell": false,
+      "reward": 7.2055,
+      "steps": 500
+    },
+    {
+      "displacement": 0.0538,
+      "fell": false,
+      "reward": 258.0742,
+      "steps": 500
+    },
+    {
+      "displacement": 1.7229,
+      "fell": false,
+      "reward": 508.4328,
+      "steps": 500
+    },
+    {
+      "displacement": 2.1872,
+      "fell": false,
+      "reward": 578.0807,
+      "steps": 500
+    },
+    {
+      "displacement": -0.4783,
+      "fell": false,
+      "reward": 178.2527,
+      "steps": 500
+    },
+    {
+      "displacement": 2.4263,
+      "fell": false,
+      "reward": 613.9416,
+      "steps": 500
+    },
+    {
+      "displacement": 3.697,
+      "fell": false,
+      "reward": 804.5494,
+      "steps": 500
+    },
+    {
+      "displacement": 0.9861,
+      "fell": false,
+      "reward": 397.9179,
+      "steps": 500
+    },
+    {
+      "displacement": 3.0838,
+      "fell": false,
+      "reward": 712.5643,
+      "steps": 500
+    },
+    {
+      "displacement": 3.859,
+      "fell": false,
+      "reward": 828.8519,
+      "steps": 500
+    },
+    {
+      "displacement": 3.3047,
+      "fell": false,
+      "reward": 745.7003,
+      "steps": 500
+    },
+    {
+      "displacement": 0.6896,
+      "fell": false,
+      "reward": 353.4338,
+      "steps": 500
+    },
+    {
+      "displacement": 1.3795,
+      "fell": false,
+      "reward": 456.9177,
+      "steps": 500
+    },
+    {
+      "displacement": 0.7218,
+      "fell": false,
+      "reward": 358.2724,
+      "steps": 500
+    },
+    {
+      "displacement": 2.6682,
+      "fell": false,
+      "reward": 650.2273,
+      "steps": 500
+    }
+  ],
+  "C__slippery": [
+    {
+      "displacement": 4.8138,
+      "fell": false,
+      "reward": 972.0665,
+      "steps": 500
+    },
+    {
+      "displacement": 3.456,
+      "fell": false,
+      "reward": 768.3942,
+      "steps": 500
+    },
+    {
+      "displacement": 4.4039,
+      "fell": false,
+      "reward": 910.5886,
+      "steps": 500
+    },
+    {
+      "displacement": 4.427,
+      "fell": false,
+      "reward": 914.0478,
+      "steps": 500
+    },
+    {
+      "displacement": 4.8695,
+      "fell": false,
+      "reward": 980.4216,
+      "steps": 500
+    },
+    {
+      "displacement": -0.9573,
+      "fell": false,
+      "reward": 106.3996,
+      "steps": 500
+    },
+    {
+      "displacement": 5.0053,
+      "fell": false,
+      "reward": 1000.7906,
+      "steps": 500
+    },
+    {
+      "displacement": 3.5734,
+      "fell": false,
+      "reward": 786.0091,
+      "steps": 500
+    },
+    {
+      "displacement": 2.5395,
+      "fell": false,
+      "reward": 630.93,
+      "steps": 500
+    },
+    {
+      "displacement": 2.7852,
+      "fell": false,
+      "reward": 667.7871,
+      "steps": 500
+    },
+    {
+      "displacement": 4.4465,
+      "fell": false,
+      "reward": 916.9778,
+      "steps": 500
+    },
+    {
+      "displacement": 3.4645,
+      "fell": false,
+      "reward": 769.676,
+      "steps": 500
+    },
+    {
+      "displacement": 4.3104,
+      "fell": false,
+      "reward": 896.5577,
+      "steps": 500
+    },
+    {
+      "displacement": 4.0627,
+      "fell": false,
+      "reward": 859.4036,
+      "steps": 500
+    },
+    {
+      "displacement": -0.5873,
+      "fell": false,
+      "reward": 161.9093,
+      "steps": 500
+    },
+    {
+      "displacement": 4.4319,
+      "fell": false,
+      "reward": 914.78,
+      "steps": 500
+    },
+    {
+      "displacement": 3.0069,
+      "fell": false,
+      "reward": 701.0291,
+      "steps": 500
+    },
+    {
+      "displacement": 3.3917,
+      "fell": false,
+      "reward": 758.7503,
+      "steps": 500
+    },
+    {
+      "displacement": 2.7254,
+      "fell": false,
+      "reward": 658.8111,
+      "steps": 500
+    },
+    {
+      "displacement": 3.3208,
+      "fell": false,
+      "reward": 748.1239,
+      "steps": 500
+    }
+  ],
+  "C__worst_case": [
+    {
+      "displacement": -1.8568,
+      "fell": false,
+      "reward": -28.5262,
+      "steps": 500
+    },
+    {
+      "displacement": 1.2192,
+      "fell": false,
+      "reward": 432.8787,
+      "steps": 500
+    },
+    {
+      "displacement": 3.0162,
+      "fell": false,
+      "reward": 702.4227,
+      "steps": 500
+    },
+    {
+      "displacement": 4.0019,
+      "fell": false,
+      "reward": 850.2916,
+      "steps": 500
+    },
+    {
+      "displacement": 2.996,
+      "fell": false,
+      "reward": 699.4029,
+      "steps": 500
+    },
+    {
+      "displacement": 0.6397,
+      "fell": false,
+      "reward": 345.9492,
+      "steps": 500
+    },
+    {
+      "displacement": 3.9236,
+      "fell": false,
+      "reward": 838.5361,
+      "steps": 500
+    },
+    {
+      "displacement": 3.2502,
+      "fell": false,
+      "reward": 737.5372,
+      "steps": 500
+    },
+    {
+      "displacement": 3.0145,
+      "fell": false,
+      "reward": 702.1765,
+      "steps": 500
+    },
+    {
+      "displacement": -2.6778,
+      "fell": false,
+      "reward": -151.6692,
+      "steps": 500
+    },
+    {
+      "displacement": 3.63,
+      "fell": false,
+      "reward": 794.4982,
+      "steps": 500
+    },
+    {
+      "displacement": 3.8761,
+      "fell": false,
+      "reward": 831.4205,
+      "steps": 500
+    },
+    {
+      "displacement": 2.9781,
+      "fell": false,
+      "reward": 696.7213,
+      "steps": 500
+    },
+    {
+      "displacement": -1.502,
+      "fell": false,
+      "reward": 24.6955,
+      "steps": 500
+    },
+    {
+      "displacement": 1.1605,
+      "fell": false,
+      "reward": 424.079,
+      "steps": 500
+    },
+    {
+      "displacement": 1.8867,
+      "fell": false,
+      "reward": 533.004,
+      "steps": 500
+    },
+    {
+      "displacement": 3.4725,
+      "fell": false,
+      "reward": 770.8778,
+      "steps": 500
+    },
+    {
+      "displacement": 2.6478,
+      "fell": false,
+      "reward": 647.1656,
+      "steps": 500
+    },
+    {
+      "displacement": -1.3202,
+      "fell": false,
+      "reward": 51.9658,
+      "steps": 500
+    },
+    {
+      "displacement": 2.525,
+      "fell": false,
+      "reward": 628.75,
+      "steps": 500
+    }
+  ]
+}

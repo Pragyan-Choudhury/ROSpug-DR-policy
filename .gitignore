@@ -20,3 +20,9 @@ __pycache__/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# RL checkpoints -- large binary files, not tracked in git
+checkpoints/
+
+# VS Code workspace personal config
+*.code-workspace

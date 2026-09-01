@@ -1,0 +1,51 @@
+# docker-compose.real.yml — Real-robot configuration (DO NOT use for simulation)
+#
+# Usage (set both env vars before running):
+#   ROBOT_IP=192.168.149.1 HOST_ETH_IP=192.168.123.100 \
+#     docker compose -f docker-compose.real.yml run --rm rospug bash
+#
+# ROBOT_IP    : IP of the ROSPug's onboard computer (its roscore runs there)
+# HOST_ETH_IP : your laptop's IP on the same subnet as the robot (enp2s0)
+#
+# Quick-find ROBOT_IP (run on host with robot powered on):
+#   bash rospug_research/find_robot_ip.sh
+# Quick-find HOST_ETH_IP:
+#   ip addr show enp2s0 | grep "inet " | awk '{print $2}' | cut -d/ -f1
+
+services:
+  rospug:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: rospug-melodic:latest
+    container_name: rospug_real
+    environment:
+      - DISPLAY=${DISPLAY:-:0}
+      - QT_X11_NO_MITSHM=1
+      - LIBGL_ALWAYS_INDIRECT=0
+      - XAUTHORITY=/dev/null
+
+      # ── Real-robot ROS networking ────────────────────────────────────────
+      # Robot's roscore is the ROS master; this container is a remote client.
+      - ROS_MASTER_URI=http://192.168.123.1:11311
+      # HOST_ETH_IP tells the robot's roscore where to send callbacks back to us.
+      - ROS_IP=${HOST_ETH_IP:?Set HOST_ETH_IP=<your_eth_ip> before running}
+      - ROS_HOSTNAME=${HOST_ETH_IP}
+
+      - NVIDIA_VISIBLE_DEVICES=all
+      - NVIDIA_DRIVER_CAPABILITIES=compute,utility
+
+      # Expose both values inside the container for scripts that need them
+      - ROBOT_IP=${ROBOT_IP:-192.168.123.1}
+      - HOST_ETH_IP=${HOST_ETH_IP}
+
+    volumes:
+      - /tmp/.X11-unix:/tmp/.X11-unix:rw
+      - ./:/root/rospug_research:rw
+
+    network_mode: host
+    ipc: host
+    stdin_open: true
+    tty: true
+
+    command: bash
